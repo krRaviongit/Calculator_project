@@ -20,9 +20,14 @@
   height: 45px;
   width: 45px;
   margin: 4px;
+  border:none;
   border-radius: 50px;
   background-color:rgb(234, 245, 252);
   font-weight: 700;
   font-family:sans-serif;
-  color:rgb(255, 0, 136)
+  color:rgb(255, 0, 136);
+}
+.button:hover{
+  background-color:rgb(255, 0, 136);
+  color:rgb(234, 245, 252);
 }
