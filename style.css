@@ -13,10 +13,11 @@
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  margin: 0 10px;
 }
 .button{
   height: 45px;
   width: 45px;
-  margin: 3px;
+  margin: 4px;
   border-radius: 50px;
 }
