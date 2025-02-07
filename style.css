@@ -3,6 +3,7 @@
   border-radius: 10px;
   width: 200px;
   background: linear-gradient(90deg, hsla(205, 46%, 10%, 1) 0%, hsla(191, 28%, 23%, 1) 50%, hsla(207, 41%, 27%, 1) 100%);
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.4);
 }
 #display{
   margin:10px;
