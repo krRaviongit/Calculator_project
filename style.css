@@ -26,8 +26,10 @@
   font-weight: 700;
   font-family:sans-serif;
   color:rgb(255, 0, 136);
+  transition: transform 0.2s ease-in-out;
 }
 .button:hover{
+  transform: scale(1.10);
   background-color:rgb(255, 0, 136);
   color:rgb(234, 245, 252);
 }
