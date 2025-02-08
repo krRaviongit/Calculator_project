@@ -27,7 +27,7 @@
   background-color:rgb(231, 253, 255);
   font-size: large;
   font-weight: 600;
-  font-family:monospace;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
   color:rgb(255, 0, 136);
   transition: transform 0.2s ease-in-out;
 }
