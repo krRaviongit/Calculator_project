@@ -34,7 +34,7 @@ body{
   font-size: large;
   font-weight: 600;
   font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-  color:rgb(255, 0, 136);
+  color:rgb(61, 95, 111);
   transition: transform 0.2s ease-in-out;
 }
 .button:hover{
